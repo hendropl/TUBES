@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>IMAGEBG.jpg</file>
+        <file>WhatsApp Image 2024-05-07 at 19.42.08_2aaf5d92.jpg</file>
+        <file>orange.jpg</file>
+        <file>white.jpg</file>
+        <file>BG2.jpg</file>
+        <file>Desain tanpa judul.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
